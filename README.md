@@ -165,7 +165,7 @@ Your app must:
   - Efficient code- if you have your MVP, refactor
   - DRY (Don't Repeat Yourself) code
 * Deploy your game online, where the rest of the world can access it. 
-* We suggest you deploy your project to [BitBalloon](https://www.bitballoon.com/).
+* We suggest you deploy your project to [Github Pages](https://pages.github.com/) or [BitBalloon](https://www.bitballoon.com/).
 
 ## How to Get Started
 
