@@ -127,8 +127,8 @@ Have a unique sound for each colored button and play the sound both when the com
   - A list of technologies, libraries, and/or frameworks used in the project, such as `Twitter Bootstrap`, `jQuery`, or `Animate.css`
   - What you would like to add in version 2
 * Wireframes or Mockups -- what does the app look like?
-  - Simple: take a picture of a whiteboard drawing
-  - Advanced: use a tool such as [Balsamiq](https://balsamiq.com/) or [Mockingbird](https://gomockingbird.com/home)
+  - Take a picture of a whiteboard drawing
+  - Or use a tool such as [Figma](https://www.figma.com/)
 * User Stories in a PUBLIC [Trello](https://trello.com/) board
   - You should have a Trello board tracking your User Stories
   - Board lists should include:
