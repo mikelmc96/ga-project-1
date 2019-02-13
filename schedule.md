@@ -37,4 +37,4 @@ Here's a rough sketch of what you should do and in what order:
 * Finish README.
 * Troubleshoot/Debug.
 * If there is time, try and accomplish some of the stretch goals (listed on the README page).
-* Deploy to [BitBalloon](https://www.bitballoon.com/).
+* Deploy to [Netlify Drop](https://app.netlify.com/drop).

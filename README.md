@@ -11,7 +11,7 @@ The objectives of this project are to:
 * Demonstrate your ability to use `HTML` and `CSS` to build and style an intuitive web application
 * Demonstrate your competancy in _DOM manipulation_ using JavaScript
 * Publish your source code to _GitHub_ with a solid `README.md` describing the project
-* Deploy your application to a production environment such as [BitBalloon](https://www.bitballoon.com/)
+* Deploy your application to a production environment such as [Netlify Drop](https://app.netlify.com/drop)
 * Present your project in a presentation style format
 
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project #1: The Game
@@ -165,7 +165,7 @@ Your app must:
   - Efficient code- if you have your MVP, refactor
   - DRY (Don't Repeat Yourself) code
 * Deploy your game online, where the rest of the world can access it. 
-* We suggest you deploy your project to [Github Pages](https://pages.github.com/) or [BitBalloon](https://www.bitballoon.com/).
+* We suggest you deploy your project to [Github Pages](https://pages.github.com/) or [Netlify Drop](https://app.netlify.com/drop).
 
 ## How to Get Started
 
@@ -225,7 +225,7 @@ Your project will be evaluated by your instructional team in order to provide yo
 
 * __Code Quality__: Did you follow code style guidance and best practices covered in class, such as spacing, modularity, and semantic naming? Did you comment your code as your instructors have in class?
 
-* __Deployment__: Did you deploy your application to a public url using BitBalloon or something equivalent?
+* __Deployment__: Did you deploy your application to a public url using Netlify Drop or something equivalent?
 
 ## Useful Resources
 ​

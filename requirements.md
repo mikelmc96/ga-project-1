@@ -3,7 +3,7 @@
 In order to get a satisfactory score, by the time you present your project, you **must** meet the following requirements:
 
 ### Deployment
-Be deployed online, where the rest of the world can access it. We suggest you deploy your project to [BitBalloon](https://www.bitballoon.com/).
+Be deployed online, where the rest of the world can access it. We suggest you deploy your project to [Netlify Drop](https://app.netlify.com/drop).
 * Deploy on your public Github page, not Github Enterprise.
 
 
