@@ -192,7 +192,7 @@ If you have ideas on how you can help a fellow-student with work that they are s
 4. Submit GitHub issues to the repo and paste links in the debugging channel to ask for advice
 5. Ask questions and communicate with your classmates over the Debugging Channel
 6. Post to Stack Overflow, be sure to follow the format for submitting bug reports, provide lots of context!
-7. Javascript and Jquery [videos](https://www.youtube.com/playlist?list=PLw1xVKFboueks5UMLogE01mdThRU577oa) produced by GA! 
+7. Review Javascript and Jquery lessons 
 
 ## How to ask for help
 
